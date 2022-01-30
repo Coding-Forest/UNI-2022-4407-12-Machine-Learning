@@ -10,7 +10,7 @@ The goal of supervised learning is "predicting" the values of certain features, 
 
 So how does it work? It works by providing the SL algorithm a pair of input data and prediction labels. The algorithm will adjust the wegiths for the algorithm so all input data and labels are fitted to the equation (this process is called training). Based on this equation and weights calculated through the model training, the model will be able to calculate (predict) the value for a given unknown input after the training. 
 
-<img src="https://github.com/deep-woods/UNI-2022-4407-12-Machine-Learning/tree/main/images/Unit_1_Supervised_learning__linear_regression.png" />
+<img src="https://github.com/deep-woods/UNI-2022-4407-12-Machine-Learning/blob/main/images/Unit_1_Supervised_learning__linear_regression.png" />
 
 <br>
 
@@ -20,7 +20,7 @@ Unlike SL, UL does not attempt to 'predict' values as there is no fixed answer. 
 
 A good example of SL application is customer segmentation. Considering certain features of customers (annual income and their spending habits, for instance), we can group them into different clusters to identify customers' shopping inclinations and tendencies. As you can see in the graph below, the customers are divided into 5 different clusters. We we are not expecting lower income groups to spend less and higher income groups to spend more (supervised learning for deterministic/predictable answers). We are looking to find out what are their spending inclinations (no fixed answer, just looking for patterns).
 
-<img src="https://github.com/deep-woods/UNI-2022-4407-12-Machine-Learning/tree/main/images/Unit_1_Unsupervised_learning__clustering.png" />
+<img src="https://github.com/deep-woods/UNI-2022-4407-12-Machine-Learning/blob/main/images/Unit_1_Unsupervised_learning__clustering.png" />
 
 <br>
 
