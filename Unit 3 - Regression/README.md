@@ -23,6 +23,8 @@
 
 ### Confidence intervals
 
+_Standard errors can be used to compute confidence intervals. A 95 % confidence interval confidence interval is defined as a range of values such that with 95 % probability, the range will contain the true unknown value of the parameter._ (James et al. 2021) 
+
 <br>
 
 ## <span id="quiz">Quiz</span>
@@ -50,4 +52,5 @@
 
 [[Top☝️]](#top)
 
+- Gareth James et al. (2021) An Introduction to Statistical Learning https://www.statlearning.com
 - Jason Brownlee (2020) Parametric and Nonparametric Machine Learning Algorithms https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
