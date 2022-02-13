@@ -1,18 +1,33 @@
-# Unit 3 - Regression
+# <span id="top">Unit 3 - Regression </span>
 
 [[Research Notes]](#notes)   
 [[Programming]](#programming)   
 [[Quiz]](#quiz)   
+[[References]](#ref)
 
 <br>
 
-## Progrmaming 
+## <span id="notes">Notes</span>
+
+[[Top☝️]](#top)
+
+<br>
+
+## <span id="programming">Progrmaming</span>
+
+[[Top☝️]](#top)
+
+### Concepts</span>
+
+<br>
 
 ### Confidence intervals
 
 <br>
 
-## Quiz
+## <span id="quiz">Quiz</span>
+
+[[Top☝️]](#top)
 
 ### Concepts 
 
@@ -31,6 +46,8 @@
 
 <br>
 
-### References 
+### <span id="ref">References</span>
+
+[[Top☝️]](#top)
 
 - Jason Brownlee (2020) Parametric and Nonparametric Machine Learning Algorithms https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/
